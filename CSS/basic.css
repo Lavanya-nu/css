@@ -1,0 +1,47 @@
+*
+{
+    border:1px solid black;
+    font-family:'Nuntio',sans-serif;
+}
+h1
+{
+    text-align: center;
+    margin:20px;
+    padding: 30px;
+    background-color: aquamarine;
+}
+p
+{
+    text-transform: capitalize;
+}
+
+.menu li
+{
+    display: inline;
+    
+}
+.menu
+{
+    
+      text-align:right;
+      padding:10px;
+
+} 
+a
+{
+    background-color: cadetblue;
+    text-decoration: none;
+}
+.container
+{
+    display:flex;
+}
+#box1,#box2,#box3,#box4
+{
+    height:100px;
+    width:100px;
+    border:2px solid red;
+    margin:3px;
+
+}
+
